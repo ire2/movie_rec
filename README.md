@@ -10,27 +10,27 @@ Movie Hero Chatbot is a Streamlit-based application that allows users to ask mov
 
 ## Installation
 
-###1. Clone the repository:
+### 1. Clone the repository:
 
 ```sh
 git clone https://github.com/ire2/movie_rec.git
 cd movie_rec
 ```
 
-###2. Create virtual enviroment:
+### 2. Create virtual enviroment:
 
 ```sh
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-###3. Install the required dependencies:
+### 3. Install the required dependencies:
 
 ```sh
 pip install -r requirements.txt
 ```
 
-###4. Set up environment variables:
+### 4. Set up environment variables:
 Create a .env file in the root directory of the project and add your OpenAI API key and TMDB API key
 If not able email me to use my google repo of fine tuned model: [ignacioec31@gmail.com] ignacioec31@gmail.com
 
@@ -40,11 +40,11 @@ OPENAI_API_KEY=your_openai_api_key
 
 ## Usage 
 
-###1. Fine-tune the GPT-2 model (if not already done):
+### 1. Fine-tune the GPT-2 model (if not already done):
 ```sh
 python source/fine_tune_gpt.py
 ```
-###2. Run the Streamlit application:
+### 2. Run the Streamlit application:
 Open your web browser and go to http://localhost:8501 to interact with the Movie Hero Chatbot.
 
 ## Project Structure
