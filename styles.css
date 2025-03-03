@@ -1,0 +1,83 @@
+/* styles.css */
+
+/* Import Font Awesome */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+
+/* Global styles */
+.stApp {
+  background: linear-gradient(135deg, #2c3e50, #bdc3c7);
+  font-family: 'Segoe UI', sans-serif;
+  color: #fff;
+}
+
+/* Sticky header */
+.header {
+  position: sticky;
+  top: 0;
+  background: rgba(0, 0, 0, 0.85);
+  padding: 1rem;
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: bold;
+  z-index: 1000;
+  border-bottom: 2px solid #fff;
+}
+
+/* Section headers */
+h2 {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 0.5em;
+}
+
+/* Movie card styling */
+.movie-card {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.movie-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Button styling */
+.stButton>button {
+  background: #ff4b4b;
+  border: none;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.stButton>button:hover {
+  background: #e03e3e;
+  transform: scale(1.02);
+}
+
+/* Input styling */
+input[type="text"] {
+  border: 2px solid #fff;
+  border-radius: 5px;
+  padding: 0.5rem;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+/* Sidebar styling */
+.css-1d391kg {
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+}
+
+/* Chat icon styling */
+.chat-icon {
+  font-size: 2em;
+  color: #ffeb3b;
+  margin-right: 0.5em;
+}
