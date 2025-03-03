@@ -258,6 +258,10 @@ Title: The Wailing
 Tagline: 
 Overview: Andrea, in search of her biological family, feels stalked by an invisible threat. Other women before them have suffered the same fate. Twenty years earlier, on the other side of the world, Camille, fascinated by Marie, tries to warn her of a threat hanging over her.
 
+Title: Ne Zha 2
+Tagline: 
+Overview: After the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies would soon be completely destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms. But in the process of reshaping, they encounter numerous difficulties. Where will the fate of Ne Zha and Ao Bing go?
+
 Title: Night Call
 Tagline: Some doors should never be unlocked.
 Overview: Mady, a student, works as a locksmith by night. He helps Claire get into her apartment and soon realizes that she lied to him about her identity and robbed something that belonged to a dangerous man, Yannick. Mady gets embroiled in a manhunt and will have one night to prove his innocence.
@@ -265,10 +269,6 @@ Overview: Mady, a student, works as a locksmith by night. He helps Claire get in
 Title: Babygirl
 Tagline: Get exactly what you want.
 Overview: A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much younger intern.
-
-Title: Ne Zha 2
-Tagline: 
-Overview: After the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies would soon be completely destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms. But in the process of reshaping, they encounter numerous difficulties. Where will the fate of Ne Zha and Ao Bing go?
 
 Title: Aftermath
 Tagline: Survival is the only option.
@@ -397,4 +397,804 @@ Overview: Po is gearing up to become the spiritual leader of his Valley of Peace
 Title: Bagman
 Tagline: He's always closer than you think.
 Overview: For centuries and across cultures, parents have warned their children of the legendary Bagman, who snatches innocent children and stuffs them into his vile, rotting bag—never to be seen again. Patrick McKee narrowly escaped such an encounter as a boy, which left him with lasting scars throughout his adulthood. Now, Patrick’s childhood tormentor has returned, threatening the safety of his wife Karina and son Jake.
+
+Title: The Garfield Movie
+Tagline: Indoor cat. Outdoor adventure.
+Overview: Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father – scruffy street cat Vic – Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.
+
+Title: 365 Days: This Day
+Tagline: Oh Yes.
+Overview: Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.
+
+Title: Harry Potter and the Philosopher's Stone
+Tagline: Let the magic begin.
+Overview: Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.
+
+Title: The Lord of the Rings: The Fellowship of the Ring
+Tagline: One ring to rule them all.
+Overview: Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.
+
+Title: Furiosa: A Mad Max Saga
+Tagline: Fury is born.
+Overview: As the world falls, young Furiosa is snatched from the Green Place of Many Mothers into the hands of a great biker horde led by the warlord Dementus. Sweeping through the wasteland, they encounter the citadel presided over by Immortan Joe. The two tyrants wage war for dominance, and Furiosa must survive many trials as she puts together the means to find her way home.
+
+Title: Carmen 1945
+Tagline: 
+Overview: Prostitutes in burnt out Tokyo ghetto of post-WWII Japan peddle their flesh and save one-third of their money for a proposed dancehall to be named Paradise. The hookers live in a bombed-out building, but they accept the precarious situation with typical resolve.
+
+Title: Captain America: Civil War
+Tagline: United we stand. Divided we fall.
+Overview: Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.
+
+Title: The Super Mario Bros. Movie
+Tagline: Not all heroes wear capes. Some wear overalls.
+Overview: While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.
+
+Title: Delinquent in Drag
+Tagline: 
+Overview: Does being the only guy in an all girl school sound like paradise? It might be, if the girls knew you were a guy, but to stay in school teenage pervert Banji can't let can't let anyone find out his chromosomes don't match. Banji's status conscious parents want him to go to a good school, but not enough to spend the money on a good co-ed school. Now, in addition to studying math and science, Banji has to learn how to put on a bra and makeup. His life has become a living hell. Not only is he at the bottom of the social pecking order, he must also got to conceal his inner-masculinity from the pretty classmate girl who's stolen his heart while avoiding the female bullies who threaten to expose his less-than-feminine charms in the locker room.
+
+Title: Top Gun: Maverick
+Tagline: Feel the need... The need for speed.
+Overview: After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.
+
+Title: Godzilla x Kong: The New Empire
+Tagline: Rise together or fall alone.
+Overview: Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.
+
+Title: The Lord of the Rings: The Return of the King
+Tagline: There can be no triumph without loss. No victory without suffering. No freedom without sacrifice.
+Overview: As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​
+
+Title: Blade Runner 2049
+Tagline: The key to the future is finally unearthed.
+Overview: Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.
+
+Title: I'm Still Here
+Tagline: When a mother's courage defies tyranny, hope is reborn.
+Overview: In the early 1970s, the military dictatorship in Brazil reaches its height. The Paiva family - Rubens, Eunice, and their five children - live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.
+
+Title: Spider-Man: Across the Spider-Verse
+Tagline: It's how you wear the mask that matters.
+Overview: After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.
+
+Title: Number 24
+Tagline: 
+Overview: On the brink of the Second World War, a young Norwegian man's drive to resist the Nazis sets a new course for his future – and the future of his country.
+
+Title: Armor
+Tagline: On the bridge of death.
+Overview: Armored truck security guard James Brody is working with his son Casey transporting millions of dollars between banks when a team of thieves led by Rook orchestrate a takeover of their truck to seize the riches. Following a violent car chase, Rook soon has the armored truck surrounded and James and Casey find themselves cornered onto a decrepit bridge.
+
+Title: Escape from the 21st Century
+Tagline: 
+Overview: On Planet K, unknown to anyone on Earth, three teenagers chosen by fate can travel back and forth twenty years into the future by sneezing. In the face of a shocking plot to destroy the world, they have nothing but crystal-clear stupidity and single-digit combat power, so how can they transform into heroes and fight against the super-villainous villains who are intent on destroying the world? The "King Bomb" brothers, who look like grown-ups but have minds like no other, will save the future on behalf of the K-Star!
+
+Title: The Count of Monte Cristo
+Tagline: This is not vengeance, this is justice.
+Overview: Edmond Dantes becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.
+
+Title: Eye for an Eye 2
+Tagline: 
+Overview: The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.
+
+Title: The Lion King
+Tagline: The king has returned.
+Overview: Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.
+
+Title: Titanic
+Tagline: Nothing on Earth could come between them.
+Overview: 101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.
+
+Title: Rita
+Tagline: 
+Overview: Rita, who finds herself alone when husband Ariel works abroad. They both find solace and sexual satisfaction in other people. When Ariel comes back, they both act like nothing happened. But will this keep their marriage from falling apart?
+
+Title: Survive
+Tagline: The world has gone sideways.
+Overview: A couple celebrates their son’s birthday in the middle of the ocean on their boat. A violent storm hits and it brings up hungry creatures from the depths and they fight for their survival.
+
+Title: Spider-Man: No Way Home
+Tagline: The Multiverse unleashed.
+Overview: Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
+
+Title: Transformers: Rise of the Beasts
+Tagline: Unite or fall.
+Overview: When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.
+
+Title: IF
+Tagline: A story you have to believe to see.
+Overview: After discovering she can see everyone's imaginary friends, a girl embarks on a magical adventure to reconnect forgotten imaginary friends with their kids.
+
+Title: Fifty Shades of Grey
+Tagline: Are you curious?
+Overview: When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.
+
+Title: Kinda Pregnant
+Tagline: Lying like a mother.
+Overview: When Lainy's plan to settle down and start a family falls apart, she puts on a fake baby bump, tells a lie — and accidentally falls for her dream guy.
+
+Title: The Price of Money: A Largo Winch Adventure
+Tagline: 
+Overview: Largo Winch, devastated by the kidnapping of his son, realizes that if he finds those responsible for his bankruptcy, maybe he'll see his son again.
+
+Title: Lembayung
+Tagline: 
+Overview: Arum and Pica, who wanted to complete their internship at Lembayung hospital, had to face mysterious terror from a woman satan who was suspected of hanged herself in the bathroom. The situation became even more tense after they asked others for help to the point where they threatened their own lives and those closest to them.
+
+Title: The Maze Runner
+Tagline: Remember. Survive. Run.
+Overview: Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow “runners” for a shot at escape.
+
+Title: John Wick: Chapter 4
+Tagline: No way back, one way out.
+Overview: With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.
+
+Title: The Conjuring
+Tagline: Based on the true case files of the Warrens.
+Overview: Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.
+
+Title: Kingdom of the Planet of the Apes
+Tagline: No one can stop the reign.
+Overview: Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.
+
+Title: Whisper of the Witch
+Tagline: 
+Overview: Mara, an ancient pagan spirit, hunts a group of teenagers taking their body parts to be reborn. A disillusioned and desperate investigator has to face his deepest fears to save the teenagers.
+
+Title: Puss in Boots: The Last Wish
+Tagline: Say hola to his little friends.
+Overview: Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
+
+Title: Dune
+Tagline: It begins.
+Overview: Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.
+
+Title: Cash Out
+Tagline: Every heist has its price.
+Overview: Criminal mastermind Mason is about to execute the score of a lifetime when his lover and key member of his crew, Decker, takes the team down and reveals she’s an undercover Interpol agent. Heartbroken, Mason escapes and retires from the life of crime until his younger brother Shawn is out of his league taking on a big bank heist all on his own. Mason has no choice left but to come to the rescue, while Interpol brings Decker in hoping to unnerve him. Before the SWAT teams storm the bank, Mason must use every tool in his arsenal to not only escape with the prize, but also the love of his life.
+
+Title: Jurassic World Dominion
+Tagline: The epic conclusion of the Jurassic era.
+Overview: Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.
+
+Title: Jurassic World Dominion
+Tagline: The epic conclusion of the Jurassic era.
+Overview: Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.
+
+Title: Fight Club
+Tagline: Mischief. Mayhem. Soap.
+Overview: A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground "fight clubs" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.
+
+Title: Shrek Forever After
+Tagline: It ain't ogre...til it's ogre.
+Overview: A bored and domesticated Shrek pacts with deal-maker Rumpelstiltskin to get back to feeling like a real ogre again, but when he's duped and sent to a twisted version of Far Far Away—where Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met—he sets out to restore his world and reclaim his true love.
+
+Title: SpongeBob Squarepants: Kreepaway Kamp
+Tagline: 
+Overview: While at Kamp Koral for a reunion, SpongeBob and the gang are stalked by a mysterious figure lurking in the shadows as campers start disappearing one by one!
+
+Title: Oppenheimer
+Tagline: The world forever changes.
+Overview: The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.
+
+Title: Avatar: The Way of Water
+Tagline: Return to Pandora.
+Overview: Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.
+
+Title: Straight
+Tagline: Ro likes beer, sports, and Elia. And Cris.
+Overview: Ro is an investment banker who likes beer, sports, and his girlfriend Elia… and he also likes Cris.
+
+Title: Strange Darling
+Tagline: Love hurts.
+Overview: Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.
+
+Title: Tatsulok: Tatlo Magkasalo
+Tagline: 
+Overview: Story about a happily married couple visited by an old friend, who ends up stirring the pot by becoming sexually involved with both the husband and the wife.
+
+Title: The Ballad of Davy Crockett
+Tagline: 
+Overview: In 1815, an American Legend, whose wife has fallen deathly ill, leaving his young children to survive on their own, must fight his way back to them across the many perils found in the Savage Lands of the wild frontier.
+
+Title: Oddity
+Tagline: Every murder lives on.
+Overview: After the brutal murder of her twin sister, Darcy goes after those responsible by using haunted items as her tools for revenge.
+
+Title: Parasite
+Tagline: Act like you own the place.
+Overview: All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
+
+Title: A Quiet Place: Day One
+Tagline: Hear how it all began.
+Overview: As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.
+
+Title: Pleasure
+Tagline: In the pursuit of fame, she discovers the price of pleasure.
+Overview: 19 year old Linnéa leaves her small town in Sweden and heads for Los Angeles with the aim of becoming the world's next big porn star, but the road to her goal turns out to be bumpier than she imagined.
+
+Title: Jurassic World
+Tagline: The park is open.
+Overview: Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.
+
+Title: Avatar
+Tagline: Enter the world of Pandora.
+Overview: In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.
+
+Title: Shrek 2
+Tagline: What happens after happily ever after?
+Overview: Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.
+
+Title: The Crow
+Tagline: True love never dies.
+Overview: Soulmates Eric and Shelly are brutally murdered when the demons of her dark past catch up with them. Given the chance to save his true love by sacrificing himself, Eric sets out to seek merciless revenge on their killers, traversing the worlds of the living and the dead to put the wrong things right.
+
+Title: Harry Potter and the Deathly Hallows: Part 1
+Tagline: Nowhere is safe.
+Overview: Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.
+
+Title: Pulp Fiction
+Tagline: You won't know the facts until you've seen the fiction.
+Overview: A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
+
+Title: Squid Game: Making Season 2
+Tagline: 
+Overview: From set designs to character arcs, get exclusive cast and director interviews on how Season 2 of the globally most-watched series was brought to life.
+
+Title: Sonic the Hedgehog
+Tagline: A whole new speed of hero.
+Overview: Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.
+
+Title: Tabu
+Tagline: 
+Overview: Solidarity with the border people. Equal rights for the sexual  deviants. Kristoffer Lohman is a young solicitor who collects stories and knowledge of different perversions. This has affected and changed his own sexual life. Sara, a young well-behaved and adorned woman, becomes interested in Kristoffer's activity.
+
+Title: Harry Potter and the Deathly Hallows: Part 2
+Tagline: It all ends.
+Overview: Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.
+
+Title: Monsters, Inc.
+Tagline: We scare because we care.
+Overview: Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.
+
+Title: The Equalizer
+Tagline: What do you see when you look at me?
+Overview: McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.
+
+Title: Coraline
+Tagline: Be careful what you wish for.
+Overview: Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.
+
+Title: The Lion King
+Tagline: The greatest adventure of all is finding our place in the Circle of Life.
+Overview: Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.
+
+Title: Pirates of the Caribbean: The Curse of the Black Pearl
+Tagline: Prepare to be blown out of the water.
+Overview: After Port Royal is attacked and pillaged by a mysterious pirate crew, capturing the governor's daughter Elizabeth Swann in the process, William Turner asks free-willing pirate Jack Sparrow to help him locate the crew's ship—The Black Pearl—so that he can rescue the woman he loves.
+
+Title: Honeymoon Crasher
+Tagline: 
+Overview: When his fiancée dumps him at the altar for her ex, a young man is left with no alternative but to go on his romantic honeymoon with his mother.
+
+Title: Niko: Beyond the Northern Lights
+Tagline: 
+Overview: Niko the reindeer joins his father in Santa's Flying Forces, but when Santa's sleigh is stolen by an acquaintance, Niko must find it in time for Christmas.
+
+Title: Harry Potter and the Prisoner of Azkaban
+Tagline: Something wicked this way comes.
+Overview: Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.
+
+Title: Night Nurse
+Tagline: 
+Overview: A dentist invites a elderly patient to stay at his home to recover, unaware that he is a jewel thief. He plans to steal a valuable diamond but then runs into a beautiful nurse who, aside from constantly stripping nude, has plans of her own.
+
+Title: Levels
+Tagline: Question reality. Discover truth.
+Overview: After witnessing his girlfriend's murder, a man risks everything - including reality itself - to discover the truth.
+
+Title: A Complete Unknown
+Tagline: The ballad of a true original.
+Overview: New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.
+
+Title: Abigail
+Tagline: Children can be such monsters.
+Overview: A group of criminals kidnap a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with no normal little girl.
+
+Title: Harry Potter and the Chamber of Secrets
+Tagline: Something evil has returned to Hogwarts!
+Overview: Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage.
+
+Title: Gladiator
+Tagline: What we do in life echoes in eternity.
+Overview: After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.
+
+Title: The Lord of the Rings: The Two Towers
+Tagline: The fellowship is broken. The power of darkness grows...
+Overview: Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.
+
+Title: Migration
+Tagline: Odd ducks welcome.
+Overview: After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.
+
+Title: Ferry 2
+Tagline: 
+Overview: After losing his drug empire, Ferry Bouman has found a measure of peace away from Brabant's criminal underworld — until his past catches up to him.
+
+Title: Coco
+Tagline: The celebration of a lifetime.
+Overview: Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.
+
+Title: Mission: Impossible - Dead Reckoning Part One
+Tagline: We all share the same fate.
+Overview: Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.
+
+Title: Toy Story
+Tagline: Hang on for the comedy that goes to infinity and beyond!
+Overview: Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.
+
+Title: Subservience
+Tagline: Don't turn her on.
+Overview: With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.
+
+Title: Shrek the Third
+Tagline: He's in for the royal treatment.
+Overview: The King of Far Far Away has died and Shrek and Fiona are to become King & Queen. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, they set off to bring him back to rule the kingdom.
+
+Title: The Most Beautiful Girl in the World
+Tagline: 
+Overview: A playboy stages a dating show to earn his inheritance by granting his father's last wish: for his son to marry the most beautiful girl in the world.
+
+Title: Ratatouille
+Tagline: He's dying to become a chef.
+Overview: Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream.
+
+Title: Inception
+Tagline: Your mind is the scene of the crime.
+Overview: Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: "inception", the implantation of another person's idea into a target's subconscious.
+
+Title: Wrath of Man
+Tagline: A Dark Spirit.
+Overview: A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.
+
+Title: Watchmen: Chapter II
+Tagline: 
+Overview: Suspicious of the events ensnaring their former colleagues, Nite Owl and Silk Spectre are spurred out of retirement to investigate. As they grapple with personal ethics, inner demons and a society turned against them, they race the clock to uncover a deepening plot that might trigger global nuclear war.
+
+Title: Undercover
+Tagline: 8 years in the bowels of ETA
+Overview: Basque Country, Spain, late nineties. A young policewoman manages to infiltrate the ruthless terrorist gang ETA.
+
+Title: The Platform 2
+Tagline: Hunger will be the least of your worries.
+Overview: After a mysterious leader imposes his law in a brutal system of vertical cells, a new arrival battles against a dubious food distribution method.
+
+Title: Cold Feet
+Tagline: 
+Overview: Although he actually just wanted to steal money, the crook Denis finds himself in the position of caretaking for the stroke patient Raimund. When Raimund's granddaughter Charlotte turns up, Denis has enough of it and wants to skip. But because of an huge blizzard, escape is unimaginable.
+
+Title: Spellbound
+Tagline: Experience a twist on happily ever after.
+Overview: When a powerful spell turns her parents into giant monsters, a teenage princess must journey into the wild to reverse the curse before it's too late.
+
+Title: Prey
+Tagline: Let the hunt begin.
+Overview: A young couple is compelled to leave their Christian missionary station in the Kalahari Desert after being threatened with death by an extremist militant gang. After crashing their aircraft they must battle man and beast for their lives.
+
+Title: The Godfather Part II
+Tagline: The rise and fall of the Corleone empire.
+Overview: In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.
+
+Title: Hijack 1971
+Tagline: One passenger with a different destination
+Overview: Pilots Tae-in and Gyu-sik are set to fly to Gimpo. Under the guidance of flight attendant Ok-soon, passengers are busy boarding. However, shortly after takeoff, a homemade bomb explodes, turning the cabin into chaos.
+
+Title: La Dolce Villa
+Tagline: He went to rescue his daughter, but Italy had other plans.
+Overview: When his daughter decides to buy a crumbling Tuscan villa, Eric rushes to Italy to talk her out of it — and instead finds beauty, romance and new purpose.
+
+Title: With You in the Future
+Tagline: 
+Overview: Carlos and Elena are about to sign a divorce when they receive an unexpected gift that will allow them to travel back in time. Back in the '90s, that nostalgic era of leather jackets, rowdy hairstyles and pop-rock, they will seek to change their destiny.
+
+Title: Big Hero 6
+Tagline: Drop everything. Save the world.
+Overview: A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.
+
+Title: Death Note Relight 1: Visions of a God
+Tagline: 
+Overview: A recap of Death Note episodes 1–26, with new footage. When rogue shinigami Ryuk leaves his Death Note in the human world, he has no idea how far the one who finds it will take his new-found power. With the Death Note in hand, brilliant high school student Light Yagami vows to rid the world of evil.
+
+Title: Venom
+Tagline: The world has enough Superheroes.
+Overview: Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.
+
+Title: Bad Influence
+Tagline: 
+Overview: A poor boy and a pampered rich girl seek to uncover secrets of the past to save their romance and their skin.
+
+Title: Love Forever
+Tagline: 
+Overview: A Stockholm couple plans to get married on the gorgeous island of Gotland, where family-imposed traditions turn their most important day into a disaster.
+
+Title: Elyas
+Tagline: 
+Overview: Elyas, a former Special Forces soldier who has become paranoid since a mission in Afghanistan, is recruited to ensure the safety of Amina and her daughter Nour, 13 years old, both of whom came from the Middle East for the holidays. As he takes office, Elyas senses something is up.
+
+Title: The Hobbit: The Battle of the Five Armies
+Tagline: Witness the defining chapter of the Middle-Earth saga
+Overview: Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.
+
+Title: Inside Out
+Tagline: Meet the little voices inside your head.
+Overview: When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.
+
+Title: Chhaava
+Tagline: One warrior, one aim and one epic saga.
+Overview: Shivaji's death sparks the Maratha-Mughal conflict. His son Sambhaji leads resistance against Aurangzeb's forces. Amid battles and intrigue, both sides face challenges in a struggle for power.
+
+Title: Squid Game: Fireplace
+Tagline: 
+Overview: Come share a toast in the Front Man's lair — but tread carefully, for you’re playing with fire.
+
+Title: The Gangster, the Cop, the Devil
+Tagline: Don't let the devil win.
+Overview: After barely surviving a violent attack by an elusive serial killer, crime boss Jang Dong-su finds himself forming an unlikely partnership with local detective Jung Tae-seok to catch the sadistic killer simply known as K.
+
+Title: Elemental
+Tagline: Opposites react.
+Overview: In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.
+
+Title: Avengers: Endgame
+Tagline: Avenge the fallen.
+Overview: After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.
+
+Title: The Seed of the Sacred Fig
+Tagline: 
+Overview: Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.
+
+Title: Nurse 3-D
+Tagline: Your pain is her pleasure.
+Overview: Abby Russell, a beautiful, dedicated nurse with a sinister side, has a secret life in which she targets and punishes dishonest men.
+
+Title: Barbie
+Tagline: She's everything. He's just Ken.
+Overview: Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.
+
+Title: Speed Zone
+Tagline: A comedy that's over the limit and beyond the law!
+Overview: An illegal race that takes place over the United States and nothing will stop this bunch of racers except for the occasional cop or a damsel in distress. Jackie Chan's car is not in this one, but many new cars make up for that. Who will win? Who will crash? Who will not even finish? Sit down and buckle up for the ride of your life.
+
+Title: The Beekeeper
+Tagline: Expose the corruption. Protect the hive.
+Overview: One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.
+
+Title: Civil War
+Tagline: Welcome to the frontline.
+Overview: In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.
+
+Title: Snow White
+Tagline: The classic tale comes to life.
+Overview: A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land', and Snow White's beauty surpasses her own.
+
+Title: Mad Max: Fury Road
+Tagline: The future belongs to the mad.
+Overview: An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.
+
+Title: Train to Busan
+Tagline: Life-or-death survival begins.
+Overview: When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.
+
+Title: The Wolf of Wall Street
+Tagline: Earn. Spend. Party.
+Overview: A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.
+
+Title: Ne Zha
+Tagline: 
+Overview: The Primus extracts a Mixed Yuan Bead into a Spirit Seed and a Demon Pill. The Spirit Seed can be reincarnated as a human to help King Zhou establish a new dynasty, whereas the Demon Pill will create a devil threatening humanity. Ne Zha is the one who is destined to be the hero, but instead he becomes a devil incarnate, because the Spirit Seed and a Demon Pill are switched.
+
+Title: Fifty Shades Freed
+Tagline: Don't miss the climax.
+Overview: Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.
+
+Title: Twilight
+Tagline: When you can live forever, what do you live for?
+Overview: When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.
+
+Title: Encanto
+Tagline: There's a little magic in all of us...almost all of us.
+Overview: The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.
+
+Title: Project Silence
+Tagline: Every survivor is a target
+Overview: Due to sudden deteriorating weather conditions, visibility on the Airport Bridge is severely impaired, leaving people stranded and at risk of the bridge collapsing due to a series of chain collisions and explosions. Amidst the chaos, the canine subjects "Echo" from the military experiment "Project Silence," who were being transported in secret, break free, and all human survivors become targets of relentless attacks.
+
+Title: Sing: Thriller
+Tagline: No tricks, only treats.
+Overview: Buster Moon dreams up a star-studded spectacle set to Michael Jackson's "Thriller" in this animated short featuring characters from the hit "Sing" films.
+
+Title: Below Her Mouth
+Tagline: Where desire lives
+Overview: An unexpected affair quickly escalates into a heart-stopping reality for two women whose passionate connection changes their lives forever.
+
+Title: Spider-Man: Into the Spider-Verse
+Tagline: More than one wears the mask.
+Overview: Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson "Kingpin" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.
+
+Title: Jurassic World: Fallen Kingdom
+Tagline: The park is gone.
+Overview: Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.
+
+Title: Fury
+Tagline: War never ends quietly.
+Overview: In the last months of World War II, as the Allies make their final push in the European theatre, a battle-hardened U.S. Army sergeant named 'Wardaddy' commands a Sherman tank called 'Fury' and its five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.
+
+Title: Mission: Impossible - The Final Reckoning
+Tagline: Our lives are the sum of our choices.
+Overview: After escaping a calamitous train crash, Ethan realizes The Entity is stashed aboard an old Russian submarine, but a foe from his past named Gabriel is also on the trail.
+
+Title: Harry Potter and the Goblet of Fire
+Tagline: Dark and difficult times lie ahead.
+Overview: When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.
+
+Title: The Hangover
+Tagline: Some guys just can't handle Vegas.
+Overview: When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.
+
+Title: The Notebook
+Tagline: Behind every great love is a great story.
+Overview: An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.
+
+Title: Salve Maria
+Tagline: 
+Overview: Maria (34), a young writer who has just become a mother, is obsessed with a scandalous event: Alice Espanet (37) has drowned her 10-month-old twins in the bathtub. Writing about Alice will be Maria's only way to understand the radical experience of her own motherhood.
+
+Title: Sumala
+Tagline: 
+Overview: An evil spirit seeking vengeance returns to plague the town that wronged her sister. Based on a chilling urban legend.
+
+Title: The Social Network
+Tagline: You don't get to 500 million friends without making a few enemies.
+Overview: In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.
+
+Title: Transmorphers: Mech Beasts
+Tagline: Metal mayhem!
+Overview: 20 years after the events of Transmorphers, a newer, more advanced species of alien robot descends on a rebuilt Earth, threatening once again to destroy the planet.
+
+Title: Paprika
+Tagline: Tinto Brass re-opens the closed houses!
+Overview: Mimma starts working in Madame Colette’s brothel to help her boyfriend financially. There she is rechristened “Paprika,” and falls in love with her first client, naval officer Franco. Despite this attraction, she begins her climb through the sex trade, residing in Italy’s most illustrious brothels.
+
+Title: Iron Man 2
+Tagline: It's not the armor that makes the hero, but the man inside.
+Overview: With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.
+
+Title: Gone Girl
+Tagline: You don't know what you've got 'til it's...
+Overview: With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.
+
+Title: The Matrix
+Tagline: The fight for the future begins.
+Overview: Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.
+
+Title: Finding Nemo
+Tagline: There are 3.7 trillion fish in the ocean. They're looking for one.
+Overview: Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.
+
+Title: Sister-in-law's Taste 2
+Tagline: 
+Overview: Sister-in-law's Taste 2
+
+Title: Making Squid Game: The Challenge
+Tagline: Witness the creation.
+Overview: Go behind the scenes and witness how the "Squid Game"-inspired reality show transformed from a scripted drama to a cutthroat, nail-biting competition.
+
+Title: Frozen
+Tagline: Only the act of true love will thaw a frozen heart.
+Overview: Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.
+
+Title: Arena Wars
+Tagline: The only way to live...is to kill.
+Overview: In 2045 convicted criminals are given the opportunity to compete on the world's #1 televised sporting event, Arena Wars. They must survive 7 rooms and 7 of the most vicious killers in the country. If they win, they regain their freedom.
+
+Title: Whiplash
+Tagline: The road to greatness can take you to the edge.
+Overview: Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.
+
+Title: Dogman
+Tagline: Wherever there is an unfortunate, God sends a dog.
+Overview: A boy, bruised by life, finds his salvation through the love of his dogs.
+
+Title: You're Cordially Invited
+Tagline: Save the date. Prepare for chaos.
+Overview: When two weddings are accidentally booked on the same day at the same venue, each bridal party is challenged with preserving their family's special moment while making the most of the unanticipated tight quarters. In a hilarious battle of determination and grit, the father of the bride and sister of the other bride chaotically go head-to-head as they stop at nothing to uphold an unforgettable celebration for their loved ones.
+
+Title: Longlegs
+Tagline: Say your prayers.
+Overview: FBI Agent Lee Harker is a gifted new recruit assigned to the unsolved case of an elusive serial killer. As the case takes complex turns, unearthing evidence of the occult, Harker discovers a personal connection to the merciless killer and must race against time to stop him before he claims the lives of another innocent family.
+
+Title: Prisoners
+Tagline: Every moment matters.
+Overview: Keller Dover is facing every parent’s worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street.
+
+Title: Road House
+Tagline: Take it outside.
+Overview: Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.
+
+Title: One of Them Days
+Tagline: 
+Overview: Best friends and roommates Dreux and Alyssa are about to have One of Them Days. When they discover Alyssa’s boyfriend has blown their rent money, the duo finds themselves going to extremes in a comical race against the clock to avoid eviction and keep their friendship intact.
+
+Title: Spider-Man
+Tagline: Go for the ultimate spin.
+Overview: After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.
+
+Title: The Next 365 Days
+Tagline: 
+Overview: Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.
+
+Title: Busty Girlfriend
+Tagline: 
+Overview: Mincheol and Suhee go to greet Minchul father (grandmother) before marriage. Dae - sik welcomes her daughter - in - law, Su - hee. But before marriage, Minchol and Suhee are separated by the difference in personality. Soon-hee, who was only preparing for marriage, is soon to live.
+
+Title: Tangled
+Tagline: They're taking adventure to new lengths.
+Overview: Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.
+
+Title: Zootopia
+Tagline: Welcome to the urban jungle.
+Overview: Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.
+
+Title: Star Wars
+Tagline: A long time ago in a galaxy far, far away...
+Overview: Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.
+
+Title: A Minecraft Movie
+Tagline: Be there and be square.
+Overview: Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.
+
+Title: Weekend in Taipei
+Tagline: Pack for a long weekend.
+Overview: A former DEA agent and a former undercover operative revisit their romance during a fateful weekend in Taipei, unaware of the dangerous consequences of their past.
+
+Title: Avengers: Doomsday
+Tagline: 
+Overview: An upcoming film in the Marvel Cinematic Universe's (MCU) sixth Phase and part of The Multiverse Saga. Plot TBA.
+
+Title: The Bad Guys: Haunted Heist
+Tagline: 
+Overview: The crafty Bad Guys crew embarks on a high-stakes Halloween heist to swipe a priceless amulet from a spooky mansion. What could go wrong?
+
+Title: Joker: Folie à Deux
+Tagline: The world is a stage.
+Overview: While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.
+
+Title: Schindler's List
+Tagline: Whoever saves one life, saves the world entire.
+Overview: The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.
+
+Title: The Batman
+Tagline: Unmask the truth.
+Overview: In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.
+
+Title: Emmanuelle
+Tagline: 
+Overview: Emmanuelle, a quality controller for a luxury hotel brand, arrives in Hong Kong to evaluate a hotel run by Margot, having been tasked with finding a good reason to sack her. Searching for a lost pleasure, she has numeral sensual experiences inside the hotel, and crosses path with Kei, a mysterious client who she becomes infatuated with.
+
+Title: Iron Man
+Tagline: Heroes aren't born. They're built.
+Overview: After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
+
+Title: Miraculous World: Paris, Tales of Shadybug and Claw Noir
+Tagline: It only takes one decision to become a hero.
+Overview: Miraculous holders from another world appear in Paris. They come from a parallel universe where everything is reversed: the holders of Ladybug and Black Cat Miraculouses, Shadybug and Claw Noir, are the bad guys, and the holder of the Butterfly Miraculous, Hesperia, is a superhero. Ladybug and Cat Noir will have to help Hesperia counter the attacks of their evil doubles and prevent them from seizing the Butterfly's Miraculous. Can our heroes also help Hesperia make Shadybug and Claw Noir better people?
+
+Title: The Hunger Games: Mockingjay - Part 1
+Tagline: Fire burns brighter in the darkness.
+Overview: Katniss Everdeen reluctantly becomes the symbol of a mass rebellion against the autocratic Capitol.
+
+Title: Lazareth
+Tagline: Lazareth must be protected at any cost.
+Overview: Lee is an aunt whose life mission is to protect her orphaned nieces, Imogen and Maeve, from a self-destructing world, raising them in isolation until an outsider threatens their peaceful existence.
+
+Title: Guardians of the Galaxy Vol. 3
+Tagline: Once more with feeling.
+Overview: Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.
+
+Title: Baby Face
+Tagline: She climbed the ladder of success - wrong by wrong!
+Overview: A young woman uses her body and her sexuality to help her climb the social ladder, but soon begins to wonder if her new status will ever bring her happiness.
+
+Title: The First Omen
+Tagline: Create something to fear.
+Overview: When a young American woman is sent to Rome to begin a life of service to the church, she encounters a darkness that causes her to question her own faith and uncovers a terrifying conspiracy that hopes to bring about the birth of evil incarnate.
+
+Title: Godzilla Minus One
+Tagline: Postwar Japan. From zero to minus.
+Overview: In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.
+
+Title: Pirates of the Caribbean: Dead Man's Chest
+Tagline: Captain Jack is back!
+Overview: Captain Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.
+
+Title: BLUE LOCK THE MOVIE -EPISODE NAGI-
+Tagline: 
+Overview: "That's a hassle." That was second-year high schooler Nagi Seishirou's favorite phrase as he lived his dull life. Until Mikage Reo, a classmate who dreamed of winning the World Cup, discovered Nagi's hidden skill, inspiring him to play soccer and share his outstanding talent. One day, Nagi Seishiro receives an invitation to the mysterious Blue Lock Project. What awaits him there is an encounter with the finest strikers assembled from across the country. Nagi's dream of becoming the best, alongside Mikage Reo, will take this prodigy to a world he's never known.
+
+Title: Terminator 2: Judgment Day
+Tagline: It's nothing personal.
+Overview: Set ten years after the events of the original, James Cameron’s classic sci-fi action flick tells the story of a second attempt to get rid of rebellion leader John Connor, this time targeting the boy himself. However, the rebellion has sent a reprogrammed terminator to protect Connor.
+
+Title: Dragonkeeper
+Tagline: Everybody just saw a girl.
+Overview: Set in Han Imperial China, the plot follows the adventures of enslaved girl Ping with ancient dragon Long Danzi. Dragons had been banished from the kingdom. Ping, an orphan, finds one of the last remaining dragon eggs. Palace guards force Ping to run away in order to return the dragon egg to the ocean and save all dragons from extinction. Ping discovers that she is a true Dragonkeeper.
+
+Title: Shutter Island
+Tagline: Some places never let you go.
+Overview: World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.
+
+Title: Beauty and the Beast
+Tagline: Be our guest.
+Overview: A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.
+
+Title: Black Panther: Wakanda Forever
+Tagline: Forever.
+Overview: Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.
+
+Title: GTMAX
+Tagline: 
+Overview: When a notorious gang of bikers recruits her brother for a heist, a former motocross champion must face her deepest fears to keep her family safe.
+
+Title: Harry Potter and the Half-Blood Prince
+Tagline: Dark Secrets Revealed
+Overview: As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.
+
+Title: The Conjuring 2
+Tagline: The next true story from the case files of Ed and Lorraine Warren.
+Overview: Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.
+
+Title: Forrest Gump
+Tagline: The world will never be the same once you've seen it through the eyes of Forrest Gump.
+Overview: A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.
+
+Title: Doctor Strange in the Multiverse of Madness
+Tagline: Enter a new dimension of Strange.
+Overview: Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.
+
+Title: Spirited Away
+Tagline: On the other side of the tunnel was a mysterious town.
+Overview: A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.
+
+Title: Grown Ups
+Tagline: Boys will be boys. . . some longer than others.
+Overview: After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.
+
+Title: Classified
+Tagline: 
+Overview: Operating alone in the field for more than 20 years, a CIA hitman uses the "Help Wanted" section of the newspapers to get his orders from the Agency. His long-lost daughter, now a UK MI6 analyst, tracks him down to deliver shocking news: his CIA boss has been dead for years and the division long since shut down. Together, they set out to discover whose orders he's been executing.
+
+Title: Mom's Friend
+Tagline: “Did Mom ever have friends like this?!”
+Overview: Seong Soo, a twenty years old boy, decided to move to Seoul after being accepted into Seoul University. However, he was a victim of real estate scam. He then moves into his mother's friend's house. Moreover, it turns out that his mother's friend is a sexy self-employed mother and Seong Soo is attracted to her.
+
+Title: How to Train Your Dragon
+Tagline: One adventure will change two worlds
+Overview: As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.
+
+Title: Animal Adventures: Save The Forest
+Tagline: Save the Forest
+Overview: "Animal Adventures: Save The Forest" portrays Softie and her friends as they fight to save their home from a garbage invasion by an automated factory. This 3D animated film highlights adventure, friendship, and environmental protection.
+
+Title: Under Paris
+Tagline: Watch out before swim.
+Overview: In order to save Paris from an international bloodbath, a grieving scientist is forced to face her tragic past when a giant shark appears in the Seine.
+
+Title: Twisters
+Tagline: Chase. Ride. Survive.
+Overview: As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.
+
+Title: Beauty and the Beast
+Tagline: The most beautiful love story ever told.
+Overview: Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.
 

@@ -56,7 +56,7 @@ def fetch_movie_details(movie_id):
         return None
 
 
-def build_training_file(num_pages=5, output_file="movie_data.txt"):
+def build_training_file(num_pages=5, output_file=os.path.join(os.path.dirname(__file__), "../data/movie_data.txt")):
     """
     Fetches movie data from TMDb (from multiple pages of popular movies)
     and writes it to a text file for fine-tuning.
@@ -86,4 +86,4 @@ def build_training_file(num_pages=5, output_file="movie_data.txt"):
 
 
 if __name__ == "__main__":
-    build_training_file(num_pages=5)
+    build_training_file(num_pages=15)

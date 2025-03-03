@@ -8,6 +8,7 @@ from transformers import (
     TrainingArguments,
 )
 
+import os
 # Set up logg
 logging.basicConfig(level=logging.INFO)
 
@@ -75,6 +76,7 @@ def fine_tune_gpt2(train_file, output_dir, num_train_epochs=3, per_device_train_
 
 
 if __name__ == "__main__":
-    train_file = "../data/movie_data.txt"
+    train_file = os.path.join(os.path.dirname(
+        __file__), "../data/movie_data.txt")
     output_dir = "../gpt2-movie-finetuned"
     fine_tune_gpt2(train_file, output_dir)
